@@ -4,7 +4,7 @@
 ![Go](https://img.shields.io/github/go-mod/go-version/noirstar/autotrader?filename=backend%252Fgo.mod)
 ![Vue](https://img.shields.io/npm/v/vue)
 
-> 업비트 시세 수신 및 오토트레이딩 (개발중지)
+> 업비트 시세 수신 및 오토트레이딩
 
 ## Introduce
 
